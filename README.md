@@ -1,4 +1,3 @@
-[Java-Concurrent-README.md](https://github.com/user-attachments/files/28914121/Java-Concurrent-README.md)
 # Java Concurrent — Multithreading & Concurrency Study
 
 Comprehensive exploration of Java concurrency patterns, thread management, and synchronized operations. Demonstrates advanced understanding of multithreading, thread synchronization, and concurrent data structures through practical implementations.
